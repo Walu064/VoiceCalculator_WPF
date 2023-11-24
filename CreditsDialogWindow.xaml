@@ -1,0 +1,13 @@
+﻿<Window x:Class="VoiceCalculator.CreditsDialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VoiceCalculator"
+        mc:Ignorable="d"
+        Title="CreditsDialogWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Informacje o twórcach aplikacji VoiceCalculator" HorizontalAlignment="Center" Margin="0,21,0,0" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox Text="Blablablablabla sratatatata" Margin="30,80,30,30"></TextBox>
+    </Grid>
+</Window>
